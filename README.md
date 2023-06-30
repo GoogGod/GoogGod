@@ -6,7 +6,7 @@
     My name is Sergey! 
     I'm glad to see you on my page. <br>
     I am currently learning Python. <br>
-    In the future I want to be a Pintest. <br>
+    In the future I want to be a Pintester. <br>
     Now I am learning on the platform <a href="https://maximumtest.ru/">Maximum Education</a><br>
     <br>
   </i>
